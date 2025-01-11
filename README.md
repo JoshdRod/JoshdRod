@@ -7,7 +7,7 @@ Hi! I'm Josh, a Computer Science student from the UK! I love learning and buildi
 
 **⚡️ Previously, I...** 
 - Took a summer job at a full-stack software developement company, speicialising in the .NET framework, Svelte, Vue, and creating my own APIs 🔌
-- Hosted an AI Connect 4 tournament with my school's @hackclub! 🚩
+- Hosted an AI Connect 4 tournament with my school's @hackclub ! 🚩
 - Wrote an Essay on [Neuromorphic computer architectures](https://www.youtube.com/watch?v=6Dcs6fQglRA&t=446s), and the potential that sparse, asynchronous architectures could have in creating incredibly low-power electronic devices.
 
 **📚 Currently, I am reading...**
