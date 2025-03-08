@@ -11,8 +11,8 @@ Hi! I'm Josh, a Computer Science student from the UK! I love learning and buildi
 - Wrote an Essay on [Neuromorphic computer architectures](https://www.youtube.com/watch?v=6Dcs6fQglRA&t=446s), and the potential that sparse, asynchronous architectures could have in creating incredibly low-power electronic devices.
 
 #### 📚 Currently, I am reading...
-- Letters from a Stoic, Seneca (translation: Robert Campbell)
-- Four Seasons in Japan, Nick Bradley 
+- Homage To Catalonia - George Orwell
+- Thinking, Fast And Slow - Daniel Khaneman
 <!---
 JoshdRod/JoshdRod is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
