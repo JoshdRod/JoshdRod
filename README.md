@@ -3,7 +3,7 @@ Event Co-Ordinator @ Youthacks - bringing hackathons to young people across the 
 https://youthacks.org
 
 #### 📚 Currently, I am reading...
-- The Box Man - Kōbō Abe
+- QED - Richard P Feynman
 - Miss Alegría - "Little Miss Sunshine" en español
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=joshdrod&show_icons=true&theme=tokyonight)](https://github.com/joshdrod)
