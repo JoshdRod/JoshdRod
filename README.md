@@ -10,4 +10,4 @@ Creator of Integrle: Wordle, but for integrals. https://joshdrod.github.io/integ
 - Short Stories in Spanish 2 (I finished #1)
 - Briefe an einen jungen Dichter (lil german ting)
 
-<img src="koi/koi.gif" width="256" alt="My koi" />
+<img src="koi/koi.gif" width="1024" alt="My koi" />
